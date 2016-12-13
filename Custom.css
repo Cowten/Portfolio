@@ -16,6 +16,24 @@
 
     }
 
+    img{
+        max-width: 100%;
+        height: auto;
+    }
+
+
+    /*thumbnail styles*/
+    .thumbnails a{
+        float: left;
+        width: 33%;
+    }
+
+
+
+
+
+
+
     h2{
     	display: block !important;
     	width: 113px;
@@ -41,11 +59,6 @@
 		position: fixed;
 	}
 
-	.sadboy{
-		height: 100px;
-	
-
-	}
 
 
 
